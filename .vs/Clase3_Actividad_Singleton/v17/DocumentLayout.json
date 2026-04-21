@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcelo Valls\\source\\repos\\Ingenieria-de-software\\Clase3_Actividad_Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D48D8911-26BD-4368-AD3D-C915C59B51C4}|Clase3_Actividad_Singleton.csproj|c:\\users\\marcelo valls\\source\\repos\\ingenieria-de-software\\clase3_actividad_singleton\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48D8911-26BD-4368-AD3D-C915C59B51C4}|Clase3_Actividad_Singleton.csproj|solutionrelative:sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48D8911-26BD-4368-AD3D-C915C59B51C4}|Clase3_Actividad_Singleton.csproj|c:\\users\\marcelo valls\\source\\repos\\ingenieria-de-software\\clase3_actividad_singleton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D48D8911-26BD-4368-AD3D-C915C59B51C4}|Clase3_Actividad_Singleton.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 694,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo Valls\\source\\repos\\Ingenieria-de-software\\Clase3_Actividad_Singleton\\SessionManager.cs",
+              "RelativeDocumentMoniker": "SessionManager.cs",
+              "ToolTip": "C:\\Users\\Marcelo Valls\\source\\repos\\Ingenieria-de-software\\Clase3_Actividad_Singleton\\SessionManager.cs",
+              "RelativeToolTip": "SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T22:48:07.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Marcelo Valls\\source\\repos\\Ingenieria-de-software\\Clase3_Actividad_Singleton\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Marcelo Valls\\source\\repos\\Ingenieria-de-software\\Clase3_Actividad_Singleton\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T22:39:22.039Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
