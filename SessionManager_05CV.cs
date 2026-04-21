@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace Clase3_Actividad_Singleton
 {
-    internal class SessionManager
+    internal class SessionManager_05CV
     {
-        private static SessionManager instance;
+        private static SessionManager_05CV instance;
 
-        private SessionManager() { }
+        private SessionManager_05CV() { }
 
-        public static SessionManager Instance()
+        public static SessionManager_05CV Instance()
         {
             if (instance == null)
             {
-                instance = new SessionManager();
+                instance = new SessionManager_05CV();
             }
             return instance;
         }
