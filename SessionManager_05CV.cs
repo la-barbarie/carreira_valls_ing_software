@@ -20,6 +20,5 @@ namespace Clase3_Actividad_Singleton
             }
             return instance;
         }
-
     }
 }
